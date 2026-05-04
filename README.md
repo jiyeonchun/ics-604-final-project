@@ -25,5 +25,3 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Open `notebook.ipynb` and run each cell sequentially from top to bottom.
-
-> **Note:** Do not skip cells — each cell depends on variables defined in previous steps.
